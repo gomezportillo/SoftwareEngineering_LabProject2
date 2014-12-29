@@ -1,7 +1,7 @@
 SoftwareEngineering - Laboratory proyect nº2
 ===============================
 
-En   este   documento   vamos   a   describir   los   diagramas   de   Clases,   Secuencia,  Componentes   y Despliegue   que   hemos   realizado   sobre   el   proyecto   de   teoria,   asi  como   una   breve   explicación si   fuera   necesaria   de   los   elementos   que   la   requieran   y  dos   de   los   casos   de   uso   implementados   en   lenguaje   Java;   Inscribir   miembro   y  Organizar Actividades.  
+En   este   proyecto vamos a implementar   los   diagramas   de   Clases,   Secuencia,  Componentes   y Despliegue   que   hemos   realizado   sobre   el   proyecto   de   teoria de  dos   de   los   casos   de   uso presentes en nuestro proyecto, Inscribir   miembro   y  Organizar Actividades.  
  
 El   sistema   del   cual   vamos   a   realizar   los   diagramas   corresponde   con   nuestro  proyecto presentado   en   el   Trabajo   de   Teoría   1,   en   el   cual   diseñamos   un   sistema   de información para una cadena de gimnasios.
  
